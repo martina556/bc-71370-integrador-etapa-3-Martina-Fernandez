@@ -6,7 +6,7 @@ const ProductosContext = createContext("TEST");
 // eslint-disable-next-line react/prop-types
 const ProductosProvider =({children}) => {
     
-    const url = import.meta.env.VITE_BACKEND_PRODUCTOS
+    const url = "https://66a84e8053c13f22a3d24aac.mockapi.io/productos/productos"
 
     const [productos, setProductos] = useState(null)
 
