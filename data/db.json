@@ -1,0 +1,112 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "foto": "./public/img/espuma-limpieza.webp",
+      "name": "Espuma de limpieza",
+      "precio": 55,
+      "stock": 13,
+      "description": "De aroma dulce y frutal, este limpiador con textura liviana, es ideal para todo tipo de piel.",
+      "category": "Limpieza"
+    },
+    {
+      "id": 2,
+      "foto": "./public/img/crema-1.webp",
+      "name": "Crema - Light Balance",
+      "precio": 55,
+      "stock": 13,
+      "description": "Crema hidratante ultra liviana oil-free.",
+      "category": "Crema"
+    },
+    {
+      "id": 3,
+      "foto": "./public/img/crema-2.webp",
+      "name": "Crema - Skin Hero",
+      "precio": 55,
+      "stock": 13,
+      "description": "Crema facial extra hidratante y regeneradora.",
+      "category": "Crema"
+    },
+    {
+      "id": 4,
+      "foto": "./public/img/bruma-1.webp",
+      "name": "Bruma de Hamamelis",
+      "precio": 55,
+      "stock": 13,
+      "description": "Es calmante, astringente antiinflamatoria.",
+      "category": "Bruma"
+    },
+    {
+      "id": 5,
+      "foto": "./public/img/bruma-2.webp",
+      "name": "Bruma de Rosas",
+      "precio": 55,
+      "stock": 13,
+      "description": "Este hermoso tónico es el paso dos de tu rutina de cuidado facial.",
+      "category": "Bruma"
+    },
+    {
+      "id": 6,
+      "foto": "./public/img/macarilla.webp",
+      "name": "Mascarilla - Green Forest",
+      "precio": 55,
+      "stock": 13,
+      "description": "Formulada especialmente para pieles mixtas y grasas.",
+      "category": "Mascarilla"
+    },
+    {
+      "id": 7,
+      "foto": "./public/img/pads.webp",
+      "name": "Pads reutilizables",
+      "precio": 55,
+      "stock": 13,
+      "description": "Ideal para realizar limpieza facial y remover el maquillaje.",
+      "category": "Extras"
+    },
+    {
+      "id": 8,
+      "foto": "./public/img/balsamo-2.webp",
+      "name": "Bálsamo labial natural - Strawberry Kiss",
+      "precio": 55,
+      "stock": 13,
+      "description": "Beneficios hidrata, repara y regenera la piel de tus labios.",
+      "category": "Balsamo"
+    },
+    {
+      "id": 9,
+      "foto": "./public/img/balsamo-1.webp",
+      "name": "Bálsamo labial natural - Cocoa Care",
+      "precio": 55,
+      "stock": 13,
+      "description": "Beneficios hidrata, repara y regenera la piel de tus labios.",
+      "category": "Balsamo"
+    },
+    {
+      "id": 10,
+      "foto": "./public/img/serum.webp",
+      "name": "Serum Nocturno",
+      "precio": 55,
+      "stock": 13,
+      "description": "Su efecto es hidratante y regenerador.",
+      "category": "Serum"
+    },
+    {
+      "id": 11,
+      "foto": "./public/img/jabonera.webp",
+      "name": "Jabonera de ceramica",
+      "precio": 55,
+      "stock": 13,
+      "description": "Es artesanal, 100% hecha a mano.",
+      "category": "Jabonera"
+    },
+    {
+      "id": 12,
+      "foto": "./public/img/vincha.webp",
+      "name": "Vincha polar soft",
+      "precio": 55,
+      "stock": 13,
+      "description": "Elastizada, suave y fácil de colocar. No daña el cabello.",
+      "category": "Extras"
+    }
+  ]
+}

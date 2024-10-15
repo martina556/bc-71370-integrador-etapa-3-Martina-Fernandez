@@ -1,0 +1,32 @@
+.section-cards {
+  background-color: white;
+  padding: 1rem;
+
+  &__header {
+    text-align: center;
+    color: #793167;
+    margin: 3rem;
+    font-size: 2rem;
+  }
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  width: 76%;
+  margin: auto;
+}
+
+@media screen and (max-width: 576px) {
+  .cards-container {
+    width: 100%;
+  }
+
+  .section-cards {
+    &__header {
+      margin: 2rem 3rem;
+    }
+  }
+}
